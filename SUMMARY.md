@@ -14,3 +14,7 @@
 * [Images & media](basics/images-and-media.md)
 * [Interactive blocks](basics/interactive-blocks.md)
 * [Integrations](basics/integrations.md)
+
+## Automated Tests
+
+* [Test Page 2025-11-15 22:19:15](automated-tests/test-page-20251115_221915.md)
