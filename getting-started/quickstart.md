@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# Quickstart By Raid Demo ( Hania is watching)
+# Quickstart By Raid Demo ( meeting demo )
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
 
